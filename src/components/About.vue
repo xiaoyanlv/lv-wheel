@@ -1,1 +1,0 @@
-<template>Hi 这是 about 页面</template>

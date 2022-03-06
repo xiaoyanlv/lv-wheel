@@ -1,1 +1,0 @@
-<template>Hi 我的第一个组件</template>
